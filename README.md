@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ratheeshramesh&label=Profile%20views&color=0e75b6&style=flat" alt="ratheeshramesh" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ratheeshramesh&label=Profile%20views&color=0e75b6&style=flat" alt="ratheeshramesh" /> </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;This+is+Ratheesh+R....;Nice+to+meet+you!&size=30">
