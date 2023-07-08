@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ratheesh-R</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ratheeshramesh&label=Profile%20views&color=0e75b6&style=flat" alt="ratheeshramesh" /> </p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;This+is+Ratheesh+R....;Nice+to+meet+you!&size=30">
+  </a>
+</h1>
 <h3 align="center">A passionate MERN developer ,UI/UX designer, 3D designer and hedera-hashgraph. I have done 3+ projects in MERN stack. I have done 5+ 3D projects in modelling and designing.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ratheeshramesh&label=Profile%20views&color=0e75b6&style=flat" alt="ratheeshramesh" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://ratheeshramesh.github.io/My-portfolio/](https://ratheeshramesh.github.io/My-portfolio/)
 
