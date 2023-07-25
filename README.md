@@ -6,7 +6,7 @@
 </h1>
 <h3 align="center">A passionate MERN developer ,UI/UX designer, 3D designer and hedera-hashgraph. I have done 3+ projects in MERN stack. I have done 5+ 3D projects in modelling and designing.</h3>
 
-- 👨‍💻 All of my projects are available at [[https://ratheeshramesh.github.io/My-portfolio/](https://ratheeshramesh.github.io/Ratheesh-portfolio/)]([https://ratheeshramesh.github.io/My-portfolio/](https://ratheeshramesh.github.io/Ratheesh-portfolio/))
+- 👨‍💻 All of my projects are available at [[https://ratheeshramesh.github.io/My-portfolio/](https://ratheeshramesh.github.io/Ratheesh-portfolio/)]
 
 - 💬 Ask me about **React, NodeJS, MongoDB**
 
